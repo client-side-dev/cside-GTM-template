@@ -1,5 +1,5 @@
 homepage: "https://cside.com"
 documentation: "https://docs.cside.com"
 versions:
-  - sha: 47d679753f76ae30e2dd2dea89b39c14441724cf
+  - sha: af0b2994286d6c50be8632e35edda28c179d909c
     changeNotes: Initial release.
