@@ -13,7 +13,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "cside",
+  "displayName": "Cside Client-Side Security",
   "categories": [
     "UTILITY"
   ],
@@ -109,4 +109,4 @@ scenarios:
 ___NOTES___
 
 cside - Client-side threat detection and web security.
-https://cside.dev
+https://cside.com
