@@ -1,4 +1,6 @@
 # Cside Client-Side Security — Google Tag Manager Template
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fclient-side-dev%2Fcside-GTM-template.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fclient-side-dev%2Fcside-GTM-template?ref=badge_shield)
+
 
 This is a Google Tag Manager (GTM) Community Template that injects the [cside](https://cside.com) monitoring script onto your website. Cside monitors third-party scripts running on your site and detects malicious behavior in real time.
 
@@ -22,3 +24,7 @@ The template uses GTM's `injectScript` API to load the cside monitoring script f
 
 - [cside website](https://cside.com)
 - [cside documentation](https://docs.cside.com)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fclient-side-dev%2Fcside-GTM-template.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fclient-side-dev%2Fcside-GTM-template?ref=badge_large)
